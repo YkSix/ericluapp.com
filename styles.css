@@ -29,6 +29,12 @@ html, body {
 .work-shopping .work-image {
   background: url('images/cover-shopping.jpg') center / cover;
 }
+.work-movie .work-image {
+  background: url('images/cover-movie.jpg') center / cover;
+}
+.work-asus-camera .work-image {
+  background: url('images/cover-asus-camera.jpg') center / cover;
+}
 .link-no-underline {
   text-decoration: none;
 }
