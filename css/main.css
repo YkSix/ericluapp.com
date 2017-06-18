@@ -185,7 +185,10 @@ h6 {
   height: 318px;
 }
 .publication_img {
+  color: #fff;
   height: 268px;
+  margin-top: 0px;
+  background-color: #009688;
 }
 .app-showcase .mdl-card__title-text {
   font-weight: 300;
@@ -251,9 +254,6 @@ h6 {
 .eric-publication-card {
   margin: 8px;
   /*height: 350px;*/
-}
-.publication-img {
-
 }
 .card_blog-post {
   height: 300px;
