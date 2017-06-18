@@ -184,6 +184,9 @@ h6 {
 .app-showcase .mdl-card__title {
   height: 318px;
 }
+.publication_img {
+  height: 268px;
+}
 .app-showcase .mdl-card__title-text {
   font-weight: 300;
   text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
@@ -241,6 +244,16 @@ h6 {
 }
 .mdl-card__supporting-text .short-description {
   line-height: 24px;
+}
+.section__publication-cover {
+  min-height: 200px;
+}
+.eric-publication-card {
+  margin: 8px;
+  /*height: 350px;*/
+}
+.publication-img {
+
 }
 .card_blog-post {
   height: 300px;
