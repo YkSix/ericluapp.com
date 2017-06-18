@@ -4,30 +4,36 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
   <loc>https://ericluapp.com/</loc>
-  <lastmod>2017-06-16T12:04:24+00:00</lastmod>
-  <priority>1.00</priority>
+  <lastmod>2017-06-18T16:31:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://ericluapp.com/index.html</loc>
-  <lastmod>2017-06-16T12:04:24+00:00</lastmod>
-  <priority>0.90</priority>
+  <lastmod>2017-06-18T16:31:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://ericluapp.com/blog/index.html</loc>
-  <lastmod>2017-06-16T12:04:24+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2017-06-18T16:31:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://ericluapp.com/contact/index.html</loc>
-  <lastmod>2017-06-16T12:04:24+00:00</lastmod>
-  <priority>0.60</priority>
+  <lastmod>2017-06-18T16:31:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://ericluapp.com/public-files/ericlu-resume.pdf</loc>
-  <lastmod>2017-06-16T12:04:24+00:00</lastmod>
-  <priority>0.90</priority>
+  <lastmod>2017-06-18T16:31:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://ericluapp.com/app/2012/07/01/mos_order/index.html</loc>
+  <lastmod>2017-06-18T16:31:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
 </url>
 </urlset>
