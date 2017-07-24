@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "Eric Lu",
+    "label": "Lead Engineer",
+    "picture": "",
+    "email": "yksix0702@gmail.com",
+    "phone": "(+886) 960-621206",
+    "website": "http://ericluapp.com",
+    "summary": "Eric Lu has 7 years experiences in Android development, currently working at Yahoo in Taiwan as a lead engineer.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "London",
+      "countryCode": "UK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "yksix",
+        "url": "https://github.com/YkSix/"
+      },
+      {
+        "network": "Medium",
+        "username": "@ericluapp",
+        "url": "https://medium.com/@ericluapp/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Yahoo!",
+      "position": "Lead Engineer",
+      "website": "https://www.yahoo.com",
+      "startDate": "2014-06-16",
+      "endDate": "2014-08-18",
+      "summary": "I worked at Yahoo in Taiwan as a lead engineer.",
+      "highlights": [
+        "Develop E-commerce applications for millions of users",
+        "Share and instruct internal tech talks about Android development regularly",
+        "Develop internal SDK used by many Yahoo-branded apps",
+        "Lead interns in their innovative Android project",
+        "Won the first prize in the Yahoo Japan Hackathon",
+        "Play the role of SCRUM master"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Dog Home Organization (流浪動物花園)",
+      "position": "volunteer",
+      "website": "http://www.doghome.org.tw/",
+      "startDate": "2016-05-01",
+      "endDate": "present",
+      "summary": "Take care stray animals, help them find a new home."
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Central University",
+      "area": "Computer Science and Information Engineering",
+      "studyType": "Master",
+      "startDate": "2008-09-01",
+      "endDate": "2010-08-31",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "2016 Yahoo Taiwan x Japan Hack day - 1st Prize",
+      "date": "2016-12-01",
+      "awarder": "Yahoo! Taiwan x Yahoo! Japan",
+      "summary": "Project Name:【Urban Ninja】 AR Game"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Android Developer Tools 深入精要 (Android Developer Tools Essentials: Android Studio to Zipalign)",
+      "publisher": "O'Reilly Media",
+      "releaseDate": "2014-07-30",
+      "website": "https://www.tenlong.com.tw/products/9789863470861",
+      "summary": "I was the translator of this book, translated it from English to Chinese. I got more clear understandings about using Android developer tools in my daily Android app developments."
+    },
+    {
+      "name": "Google Glass 開發指南 (Google Glass Development Guide)",
+      "publisher": "Gotop",
+      "releaseDate": "2014-12-30",
+      "website": "https://www.tenlong.com.tw/products/9789863474012",
+      "summary": "I was the translator of this book, translated it from Simplified Chinese to Traditional Chinese. I learnt some concepts of using Google Glass development kit and Mirror API in that time."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Android development",
+      "level": "Master",
+      "keywords": [
+        "Android SDK",
+        "performance tuning"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker"
+    }
+  ]
+}
