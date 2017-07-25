@@ -14,9 +14,10 @@ figure,
 .highlight {
   margin-bottom: 15px;
 }
-/*a {
-  color: #009688;
-}*/
+a {
+  /*color: #009688;*/
+  text-decoration: none;
+}
 blockquote {
   color: #424242;
 }
@@ -510,3 +511,57 @@ h6 {
     padding: 28px 28px;
   }
 }
+
+
+/*----------------next project----------------------------------*/
+#next-prev-all {
+  width: 100%;
+  margin: 0 auto;
+  font-family: "Proxima Nova", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", "STHeitiTC-Light", "Microsoft JhengHei", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  text-align: center;
+  color: #333;
+  padding: 60px 0;
+  background: #F6F6F6;
+  transition: .175s ease-in-out all;
+  -o-transition: .175s ease-in-out all;
+  -ms-transition: .175s ease-in-out all;
+  -moz-transition: .175s ease-in-out all;
+  -webkit-transition: .175s ease-in-out all;
+}
+
+.next_prev_container {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+#next-prev-all:hover {
+  background: #513FFC;
+}
+
+#next-prev-all:hover, #next-prev-all:hover .smaller-font {
+  cursor: url('../images/hover_cursor.png'),auto;
+  color: #fff;
+}
+
+#next-project .smaller-font {
+  font-family: "Proxima Nova", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", "STHeitiTC-Light", "Microsoft JhengHei", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: #999;
+  transition: .175s ease-in-out all;
+  -o-transition: .175s ease-in-out all;
+  -ms-transition: .175s ease-in-out all;
+  -moz-transition: .175s ease-in-out all;
+  -webkit-transition: .175s ease-in-out all;
+}
+
+.post-main .post-section .post-content .abs-link {
+  margin-left: -56px;
+  margin-right: -56px;
+  margin-bottom: -56px;
+}
+
